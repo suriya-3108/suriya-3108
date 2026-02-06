@@ -38,7 +38,7 @@ Passionate **Full-Stack Developer** building scalable web systems using MERN + F
 - Flask REST APIs + MongoDB
 - Real-time search optimization (2s → 200ms)
 
-**Tech:** Python, Flask, MongoDB, React
+**Tech:** HTML, CSS, JavaScript, Flask, MongoDB
 
 
 ## 🤖 AI Personal Chatbot
@@ -47,7 +47,7 @@ Passionate **Full-Stack Developer** building scalable web systems using MERN + F
 - Multi-turn conversation support
 - Robust fallback handling
 
-**Tech:** Flask, Node.js
+**Tech:** React, Flask, MongoDB, JWT, Tailwind CSS
 
 
 # 💼 Experience
@@ -76,7 +76,7 @@ CGPA: 8.4 / 10
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-3108&layout=compact&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=suriya-3108&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suriya-3108&theme=radical)
 
 
 # 🤝 Connect
