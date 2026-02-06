@@ -12,9 +12,7 @@
 
 ## 🚀 About Me
 
-Passionate **Full-Stack Developer** building scalable web systems using MERN + Flask.  
-Focused on backend performance, automation pipelines, and microservices architecture.  
-Creator of **MicroSculpt AI — Automated Monolith to Microservice Transformer**.
+Passionate **Full-Stack Developer** building scalable web systems using MERN + Flask. Focused on backend performance, automation pipelines, and microservices architecture. Creator of **MicroSculpt AI — Automated Monolith to Microservice Transformer**.
 
 # 🛠️ Tech Stack
 
