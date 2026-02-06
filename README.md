@@ -4,11 +4,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&lines=Full+Stack+Developer;Microservices+Builder;AI+Project+Developer)
 
-📧 **Email:** hsudhan422@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/suriya31-g  
-💻 **GitHub:** https://github.com/suriya-3108  
-🌐 **Portfolio:** https://personal-portfolio-gray-five.vercel.app/  
+📧 **Email:** [hsudhan422@gmail.com](mailto:hsudhan422@gmail.com)  
+🔗 **LinkedIn:** [suriya31-g](https://www.linkedin.com/in/suriya31-g)  
+💻 **GitHub:** [suriya-3108](https://github.com/suriya-3108)  
+🌐 **Portfolio:** [Visit Site](https://personal-portfolio-gray-five.vercel.app/)  
 📱 **Phone:** +91 6374057649
+
 
 ---
 
