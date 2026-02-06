@@ -4,25 +4,27 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&lines=Full+Stack+Developer;Microservices+Builder;AI+Project+Developer)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> <b>Email:</b> hsudhan422@gmail.com &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/suriya31-g">suriya31-g</a> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> <b>GitHub:</b> <a href="https://github.com/suriya-3108">suriya-3108</a> &nbsp;&nbsp;
-  🌐 <b>Portfolio:</b> <a href="https://personal-portfolio-gray-five.vercel.app/">Visit Site</a> &nbsp;&nbsp;
-  📱 <b>Phone:</b> +91 6374057649
-</p>
+📧 **Email:** hsudhan422@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/suriya31-g  
+💻 **GitHub:** https://github.com/suriya-3108  
+🌐 **Portfolio:** https://personal-portfolio-gray-five.vercel.app/  
+📱 **Phone:** +91 6374057649
 
-## 🚀 About Me
+---
 
-Passionate **Full-Stack Developer** building scalable web systems using MERN + Flask.  
-Focused on backend performance, automation pipelines, and microservices architecture.  
-Creator of **MicroSculpt AI — Automated Monolith to Microservice Transformer**.
+# 🚀 About Me
+
+Passionate **Full-Stack Developer** building scalable web systems using MERN + Flask. Focused on backend performance, automation pipelines, and microservices architecture. Creator of **MicroSculpt AI — Automated Monolith to Microservice Transformer**.
+
+---
 
 # 🛠️ Tech Stack
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nextjs,redux,tailwind,nodejs,express,flask,mongodb,mysql,docker,aws,git,linux,postman,github,vscode" />
 </p>
+
+---
 
 # 🧠 Featured Projects
 
@@ -56,11 +58,11 @@ Creator of **MicroSculpt AI — Automated Monolith to Microservice Transformer**
 
 **Tech:** Flask, Node.js
 
+---
 
 # 💼 Experience
 
-## Junior Software Engineer Intern — SkillRank
-
+## Junior Software Engineer Intern — SkillRank  
 Mar 2025 – Jul 2025 | Remote
 
 - Built MERN + Flask modules
@@ -69,6 +71,7 @@ Mar 2025 – Jul 2025 | Remote
 - React/Next reusable components
 - Agile + CI/CD workflow
 
+---
 
 # 🎓 Education
 
@@ -76,6 +79,7 @@ B.Tech — Information Technology (2022–2026)
 Perunthalaivar Kamarajar Institute of Engineering and Technology  
 CGPA: 8.4 / 10
 
+---
 
 # 📊 GitHub Stats
 
@@ -85,21 +89,22 @@ CGPA: 8.4 / 10
 
 ![Streak](https://streak-stats.demolab.com?user=suriya-3108&theme=radical)
 
+---
 
 # 🤝 Connect
 
-<p>
 <a href="https://www.linkedin.com/in/suriya31-g">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/suriya-3108">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://personal-portfolio-gray-five.vercel.app/">
 🌐 Portfolio
 </a>
-</p>
+
+---
 
 ⭐ Explore my repositories and feel free to collaborate!
