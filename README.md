@@ -113,8 +113,8 @@ CGPA: 8.4 / 10
 
 # 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/suriya31-g)  
-[Portfolio](https://personal-portfolio-gray-five.vercel.app/)  
-[GitHub](https://github.com/suriya-3108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suriya31-g)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/suriya-3108)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://personal-portfolio-gray-five.vercel.app/)
 
 ⭐ Explore my repositories and feel free to collaborate!
