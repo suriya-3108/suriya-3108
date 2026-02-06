@@ -4,11 +4,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00C2FF&lines=Full+Stack+Developer;Microservices+Builder;AI+Project+Developer)
 
-[![Email](https://img.shields.io/badge/Email-hsudhan422%40gmail.com-red?style=flat&logo=gmail)](mailto:hsudhan422@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206374057649-blue?style=flat&logo=whatsapp)](tel:+916374057649)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suriya31-g)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/suriya-3108)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=vercel)](https://personal-portfolio-gray-five.vercel.app/)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> <b>Email:</b> hsudhan422@gmail.com &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/suriya31-g">suriya31-g</a> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> <b>GitHub:</b> <a href="https://github.com/suriya-3108">suriya-3108</a> &nbsp;&nbsp;
+  🌐 <b>Portfolio:</b> <a href="https://personal-portfolio-gray-five.vercel.app/">Visit Site</a> &nbsp;&nbsp;
+  📱 <b>Phone:</b> +91 6374057649
+</p>
 
 ## 🚀 About Me
 
@@ -18,20 +20,9 @@ Creator of **MicroSculpt AI — Automated Monolith to Microservice Transformer**
 
 # 🛠️ Tech Stack
 
-## Languages
-![Languages](https://skillicons.dev/icons?i=python,js,cpp,html,css)
-
-## Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind)
-
-## Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask)
-
-## Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
-
-## DevOps & Tools
-![Tools](https://skillicons.dev/icons?i=git,docker,aws,linux,postman,github,vscode)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nextjs,redux,tailwind,nodejs,express,flask,mongodb,mysql,docker,aws,git,linux,postman,github,vscode" />
+</p>
 
 # 🧠 Featured Projects
 
@@ -97,8 +88,18 @@ CGPA: 8.4 / 10
 
 # 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suriya31-g)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/suriya-3108)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://personal-portfolio-gray-five.vercel.app/)
+<p>
+<a href="https://www.linkedin.com/in/suriya31-g">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/suriya-3108">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://personal-portfolio-gray-five.vercel.app/">
+🌐 Portfolio
+</a>
+</p>
 
 ⭐ Explore my repositories and feel free to collaborate!
